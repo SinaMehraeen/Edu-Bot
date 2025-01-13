@@ -30,10 +30,5 @@ To add more knowledge checks:
     Modify the logic in the chat_with_model function.
     Define questions, expected answers, and user input prompts.
 
-Expanding Metrics
 
-Feel free to extend the ChatMetrics class to include additional metrics, such as:
 
-    Sentiment analysis.
-    Engagement with multimedia elements.
-    Real-time feedback efficiency.
